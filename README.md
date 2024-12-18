@@ -1,7 +1,7 @@
 # TymeX-test
 
 ## App Overview
-A simple currency converter app using [FXRatesAPI]{https://fxratesapi.com/}. The app can convert from and to nearly 200 currencies.
+A simple currency converter app using [FXRatesAPI](https://fxratesapi.com/). The app can convert from and to nearly 200 currencies.
 
 ## Step to build and run the app 
 
